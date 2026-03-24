@@ -1,5 +1,8 @@
 # mono-radar
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 **Monorepo change-impact analyzer: find what to test, build, and deploy from a diff.**
 
 Point mono-radar at your monorepo. It detects every package, builds the dependency graph, and tells you exactly which packages are affected by your changes -- directly and transitively. Generate CI matrices, build orders, and dependency visualizations.
